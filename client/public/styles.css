@@ -1,0 +1,32 @@
+.container{
+    margin-top: 10px;
+}
+
+.row{
+    margin-top: 10px;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+}
+
+.searchbar{
+    width: 550px;
+    padding-top: 10px;
+}
+
+.book_img{
+    width: 300px;
+    height: 450px;
+    padding: 5px;
+}
+
+.border-bot{
+    padding-bottom: 5px; 
+    border-bottom: 1px solid gray;
+}
+
+i{
+    display: inline;
+}
